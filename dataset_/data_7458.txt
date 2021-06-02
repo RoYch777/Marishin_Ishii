@@ -1,0 +1,1 @@
+[Раздаточный материал]oldC programming language:True – NO PROBLEMOFalse – I LIEDAssignVariable – GET TO THE CHOPPEREndAssignVariable – ENOUGH TALKПеред вами – часть команд эзотерического языка программирования, в названии которого мы пропустили три буквы. Воспроизведите это название полностью.
