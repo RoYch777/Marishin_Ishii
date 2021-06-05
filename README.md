@@ -5,3 +5,5 @@
 Ссылка на презентацию: https://drive.google.com/file/d/1_zjFDw3qxj2OQt4Ifs8m6jms8oq42KXG/view
 
 Ссылка на используемый в проекте датасет: https://github.com/vlomme/Russian-gpt-2
+
+Ссылка на код вместе с весами: https://disk.yandex.ru/d/P_lwqDGAYGqdyQ
