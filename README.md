@@ -2,6 +2,6 @@
 
 Задание проекта: создать чат-бота в telegram, который с помощью GPT-2 будет генерировать вопросы из базы вопросов «Что? Где? Когда?»(https://db.chgk.info/).
 
-Ссылка на презентацию: https://vk.com/doc68138750_603093073?hash=2081b24d6e48a10287&dl=4f90bfe33e7a52579a
+Ссылка на презентацию: https://drive.google.com/file/d/1_zjFDw3qxj2OQt4Ifs8m6jms8oq42KXG/view
 
 Ссылка на используемый в проекте датасет: https://github.com/vlomme/Russian-gpt-2
