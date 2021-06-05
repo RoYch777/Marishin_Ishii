@@ -7,3 +7,5 @@
 Ссылка на используемый в проекте датасет: https://github.com/vlomme/Russian-gpt-2
 
 Ссылка на код вместе с весами: https://disk.yandex.ru/d/vQo3PzAo_FMoSw
+
+Ник телеграм-бота: @no_notes_bot
